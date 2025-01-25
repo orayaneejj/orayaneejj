@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cherry</h1>
-<h3 align="center">Turning ideas into interactive web applications as a full-stack developer from Thailand.</h3>
+
+### About me
+I'm a full-stack developer from Thailand, combining my love for technology with my creative background in film and design.  I enjoy learning and building projects that create meaningful and enjoyable experiences. 💻💡
+
 
 - 🔭 I’m currently working on [Blog Post Web App](https://github.com/orayaneejj/Personal-Blog-Post)
 
 - 🌱 I’m currently learning **Typecript**
 
 - 📫 How to reach me **orayaneejj@gmail.com**
-
+  
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/orayaneejj/)
 <p align="left">
 </p>
 
