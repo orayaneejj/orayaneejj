@@ -4,7 +4,7 @@
 I'm a full-stack developer from Thailand, combining my love for technology with my creative background in film and design.  I enjoy learning and building projects that create meaningful and enjoyable experiences. 💻💡
 
 
-- 🔭 I’m currently working on [Blog Post Web App](https://github.com/orayaneejj/Personal-Blog-Post)
+- 🔭 I’m currently working on [E-Commerce-Product-List](https://github.com/orayaneejj/E-Commerce-Product-List)
 
 - 🌱 I’m currently learning **Typecript**
 
